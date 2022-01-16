@@ -17,9 +17,11 @@ In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">G
 
 **Strong Languages**: Python
   
-- 🔭 
+- 🔭 I’m currently building my Machine Learning porfolio project
+- 🌱 I’m currently learning Generative Adversarial Networks (GANs) and Graph Neural Networks (GNN)
 - 👯 I’m looking to collaborate on open source data science and machine learning projects.
 - 💬 Ask me about Machine Learning, Data Science, Business Development, and Technical Writing.
+- ⚡ Fun fact: I'm a Libra introvert whose self-will is to be ridcously happy
 - 📫 How to reach me: Email (itsDonmonc@gmail.com) [Twitter](https://twitter.com/itsDonmonc), [Linkedin](https://www.linkedin.com/in/Donmonc).
 
 --------------
@@ -31,21 +33,16 @@ My Latest writings are:
 
 - See more of my technical articles on [Medium](https://medium.com/@itsdonmonc)
 
-[![Rising's github stats](https://github-readme-stats.vercel.app/api?username=risenW&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/risenW/)
-
-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/itsDonmonc)
+[![Rising's github stats](https://github-readme-stats.vercel.app/api?username=donmonc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/donmonc/)
 
 <!--
 **donmonc/donmonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
+- 
+- 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ...
 -->
