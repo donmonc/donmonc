@@ -11,7 +11,7 @@ My interest in the ML ecosystem led me to becoming one of the co-pilots at <a hr
 **Strong Languages**: Python
   
 - 🔭 I’m currently building my Machine Learning porfolio project
-- 🌱 I’m interested in Machine Learning Research in Neural Machine Translation (NMT) for low resource languages in Africa, Generative Adversarial Networks (GANs) and Graph Neural Networks (GNN)
+- 🌱 I’m interested in Machine Learning Research in Neural Machine Translation (NMT) for low resource languages, Generative Adversarial Networks (GANs) and Graph Neural Networks (GNN)
 - 👯 I’m looking to collaborate on open source data science and machine learning projects.
 - 💬 Ask me about Machine Learning, Data Science, Business Development, and Technical Writing.
 - ⚡ Fun fact: I'm a Libra introvert whose self-will is to be ridiculously happy.
