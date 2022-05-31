@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 I'm a Data Scientist & Machine Learning engineer who is passionate about using analytics to peform magic, contributing to open-source, and building Machine Learning community in Nigeria. Some technologies I enjoy working with include Plotly, Seaborn, TensorFlow, PyTorch, Python, Gradio, Streamlit, and Flask. I combine my knowledge of Statistics, Business Development, and Data Science to build data driven projects/products that can solve problems.
 
-My interest in the ML ecosystem led me to becoming one of the co-pilots / community manager at <a href="https://twitter.com/mlspace_co/">MLSpace</a>, an active Machine Learning community on Discord with over 11000 members, a Helper staff at [Python Discord](https://PythonDiscord.com), the biggest Python Community in the world.
+My interest in the ML ecosystem led me to becoming one of the co-pilots / community manager at <a href="https://twitter.com/mlspace_co/">MLSpace</a>; an active Machine Learning community on Discord with over 11000 members, a Helper Staff at [Python Discord](https://PythonDiscord.com), the biggest Python Community in the world.
 
 ------------
 
