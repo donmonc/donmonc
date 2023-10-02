@@ -11,10 +11,10 @@ My interest in the ML ecosystem led me to becoming one of the co-pilots / commun
 **Strong Languages**: Python
   
 - 🔭 
-- 🌱 I’m interested in Machine Learning Research in Neural Machine Translation (NMT) for low resource languages, Generative Adversarial Networks (GANs) and Graph Neural Networks (GNN)
-- 👯 I’m looking to collaborate on open source data science and machine learning projects.
-- 💬 Ask me about Machine Learning, Data Science, Business Development, and Technical Writing.
-- ⚡ Fun fact: I'm a Libra introvert whose self-will is to be ridiculously happy.
+- 🌱 I’m interested in Machine Learning Research in Neural Machine Translation (NMT) for low resource languages, Generative AI, and Computational Neuroscience
+- 👯 Im open to collaborating on open-source data science and machine learning projects.
+- 💬 Ask me about Machine Learning, Data Science, and, Business Development.
+- ⚡ Fun fact: I'm a Libra cool-head whose self-will is to be ridiculously happy.
 - 📫 How to reach me: Email itsDonmonc@gmail.com , [Twitter](https://twitter.com/itsDonmonc), [Linkedin](https://www.linkedin.com/in/Donmonc).
 
 --------------
