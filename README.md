@@ -4,7 +4,7 @@ I am a machine learning research engineer passionate about low-resource NLP and 
 
 
 - ⚡️ As an ML Researcher at Masakhane, I am working on AI research on low-resource NLP.
-- 🎓 I'm a data scientist at Univelcity
+- 🎓 I also work as a data scientist at Univelcity
 - 🎮 But most of all, I am a passionate coder who loves open-source software!
 - 📖 I also love writing and TV series in the adventure genre
 - 🌱 My research interests are in low-resource NLP, Generative AI, and computational neuroscience
