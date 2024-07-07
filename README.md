@@ -3,10 +3,10 @@
 I am a machine learning research engineer passionate about low-resource NLP and computational neuroscience
 
 
-- ⚡️ As an ML Researcher at Masakhane, I am working on AI research on low-resource NLP.
-- 🎓 I also work as a data scientist.
+- ⚡️ As a ML Researcher at Masakhane, I am working on AI research on low-resource NLP.
+- 🎓 I'm a Data Scientist.
 - 🎮 But most of all, I am a passionate coder who loves open-source software!
-- 📖 To unwind, I watch TV series in the adventure genre and write technical blogs
+- 📖 To unwind, I watch TV series; mostly in the adventure genre, and I write technical blogs.
 - 🌱 My research interests are in low-resource NLP, Generative AI, and computational neuroscience
 
 ----
